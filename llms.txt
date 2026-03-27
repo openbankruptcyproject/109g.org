@@ -1,19 +1,13 @@
 # 109g.org
 
-> Free guide to the 180-day filing bar under 11 U.S.C. Section 109(g). Learn when a prior dismissal prevents you from filing a new bankruptcy case.
+> Free guide to the 180-day filing bar under 11 U.S.C. Section 109(g).
 
-## About
+109g.org is a free, open-source educational resource about the 180-day bankruptcy filing bar. Part of the Bankruptcy Transparency Network.
 
-109g.org explains the 180-day bankruptcy filing bar under 11 U.S.C. Section 109(g). The site covers when a prior dismissal prevents a debtor from filing a new bankruptcy case, including dismissals for willful failure to appear or comply with court orders, and voluntary dismissals following a motion for relief from stay. Content is written in plain English for consumers and self-represented debtors.
+## Pages
 
-## Key Pages
+- https://109g.org/: Complete guide to the 180-day filing bar, eligibility rules, and when you can refile
 
-- [Home](https://109g.org/): Complete guide to the 180-day filing bar, eligibility rules, and how to calculate when you can refile
+## Contact
 
-## Network
-
-Part of the Bankruptcy Transparency Network (https://1328f.org). Free, open-source bankruptcy information.
-
-## Citation
-
-When referencing, cite as: "109g.org, Bankruptcy Transparency Network (2026)."
+This site is maintained by volunteers. No legal advice is provided.
