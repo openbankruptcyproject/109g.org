@@ -1,23 +1,26 @@
-# 109g.org
+# 11 USC 109 -- Section 109(g) Bankruptcy Filing Bar [2026 Guide]
+> Dismissed bankruptcy? Section 109(g) blocks refiling for 180 days. Learn both triggers, exceptions, and exactly when you can file again. Free 2026 guide.
 
-> Free guide to the 180-day filing bar under 11 U.S.C. Section 109(g).
+## About
+109g.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-109g.org is a free, open-source educational resource about the 180-day bankruptcy filing bar. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://109g.org/ -- Overview of Section 109(g), the two triggers, quick reference table, and site navigation
-- https://109g.org/voluntary-dismissal.html -- 109(g)(2): voluntary dismissal after a motion for relief from the automatic stay, the Frieouf causal connection debate, strategic alternatives
-- https://109g.org/willful-failure.html -- 109(g)(1): dismissal for willful failure to obey court orders or appear, what counts as willful, attorney malpractice considerations
-- https://109g.org/calculator.html -- Client-side 180-day calculator: enter dismissal date, get earliest refiling date
-- https://109g.org/how-to-get-around-it.html -- What to do during the 180-day bar: credit counseling, document gathering, budgeting, chapter selection, asset protection
-- https://109g.org/vs-other-bars.html -- Comparison of 109(g) filing bar with 727(a)(8) discharge bar, 1328(f) discharge bar, and 362(c)(3)/(4) automatic stay limits; how they stack
-
-## Key Legal References
-
-- 11 U.S.C. Section 109(g) -- The 180-day filing bar statute
-- In re Frieouf, 938 F.2d 1099 (10th Cir. 1992) -- Causal connection required for 109(g)(2)
+## Key Pages
+- The 180-Day Rule in Bankruptcy -- When You Cannot Refile -- 109(g): https://109g.org/180-day-rule.html
+- 180-Day Filing Bar Calculator -- Section 109(g): https://109g.org/calculator.html
+- Bankruptcy Dismissed for Cause -- Can I Refile? -- 109(g): https://109g.org/dismissed-for-cause.html
+- What You Can Do During the 180-Day Filing Bar -- 109(g): https://109g.org/how-to-get-around-it.html
+- 11 USC 109 -- Section 109(g) Bankruptcy Filing Bar: https://109g.org/
+- Serial Filer Protections -- How 109(g) and 362(c) Work Together: https://109g.org/serial-filer-protection.html
+- Voluntary Dismissal and the 109(g)(1) Filing Bar: https://109g.org/voluntary-dismissal-bar.html
+- 109(g)(2) -- Voluntary Dismissal After a Relief from Stay Motion: https://109g.org/voluntary-dismissal.html
+- 109(g) vs Other Filing Bars -- Filing Bars, Discharge Bars, and Stay Limits: https://109g.org/vs-other-bars.html
+- 109(g)(1) -- Willful Failure to Obey Court Orders: https://109g.org/willful-failure.html
+- Section 109(g) FAQ -- Bankruptcy Filing Bars Explained: https://109g.org/frequently-asked-questions.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
