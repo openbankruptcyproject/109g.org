@@ -17,22 +17,22 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>109(g)(2) - Voluntary Dismissal After a Relief from Stay Motion</title>
-<meta content="Learn about 109(g)(2) - voluntary dismissal after a relief from stay motion | 109g.org in our free 2026 guide." name="description"/>
-<meta content="109(g)(2), voluntary dismissal bankruptcy, relief from stay motion, 180 day bar voluntary dismissal, Frieouf causal connection, voluntary dismissal after stay relief, bankruptcy refiling bar, gaming automatic stay" name="keywords"/>
-<link href="https://109g.org/voluntary-dismissal.html" rel="canonical"/>
+<title>109(g) vs Other Filing Bars - Filing Bars, Discharge Bars, and Stay Limits</title>
+<meta content="Learn about 109(g) vs other filing bars - filing bars, discharge bars, and stay limits | 109g.org in our free 2026 guide." name="description"/>
+<meta content="109g vs 727a8, filing bar vs discharge bar, 109g vs 362c3, bankruptcy bars comparison, serial filer bankruptcy, repeat filer stay limits, discharge bar vs filing bar, 1328f discharge bar, stacking bankruptcy bars" name="keywords"/>
+<link href="https://109g.org/vs-other-bars.html" rel="canonical"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/manifest.json" rel="manifest"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-27" name="last-modified"/>
-<meta content="109(g)(2) - Voluntary Dismissal After a Relief from Stay Motion" property="og:title"/>
-<meta content="Learn about 109(g)(2) - voluntary dismissal after a relief from stay motion | 109g.org in our free 2026 guide." property="og:description"/>
+<meta content="109(g) vs Other Filing Bars - Filing Bars, Discharge Bars, and Stay Limits" property="og:title"/>
+<meta content="Learn about 109(g) vs other filing bars - filing bars, discharge bars, and stay limits | 109g.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://109g.org/voluntary-dismissal.html" property="og:url"/>
+<meta content="https://109g.org/vs-other-bars.html" property="og:url"/>
 <meta content="109g.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="109(g)(2) - Voluntary Dismissal After a Relief from Stay Motion" name="twitter:title"/>
-<meta content="Learn about 109(g)(2) - voluntary dismissal after a relief from stay motion | 109g.org in our free 2026 guide." name="twitter:description"/>
+<meta content="109(g) vs Other Filing Bars - Filing Bars, Discharge Bars, and Stay Limits" name="twitter:title"/>
+<meta content="Learn about 109(g) vs other filing bars - filing bars, discharge bars, and stay limits | 109g.org in our free 2026 guide." name="twitter:description"/>
 <meta content="/og-image.svg" property="og:image"/>
 <meta content="/og-image.svg" name="twitter:image"/>
 <script type="application/ld+json">
@@ -42,42 +42,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Does voluntary dismissal always trigger the 180-day filing bar?",
+      "name": "What is the difference between a filing bar and a discharge bar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. The 180-day bar under Section 109(g)(2) only applies when you voluntarily dismissed your case after a creditor filed a motion for relief from the automatic stay. If no creditor had filed a stay relief motion before you dismissed, 109(g)(2) does not apply and you can refile immediately (subject to repeat-filer stay limits under 362(c)(3) and 362(c)(4))."
+        "text": "A filing bar (Section 109(g)) prevents you from filing any bankruptcy case at all for 180 days. No case is opened, no automatic stay takes effect, and no creditor protection begins. A discharge bar (Sections 727(a)(8), 727(a)(9), 1328(f)) allows you to file a new case and receive the automatic stay, but prevents the court from granting a discharge. Filing bars are shorter (180 days) but more restrictive. Discharge bars are longer (2 to 8 years) but still allow you to file and receive temporary creditor protection."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the Frieouf causal connection test?",
+      "name": "Can I face both a filing bar and a discharge bar at the same time?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In In re Frieouf, 938 F.2d 1099 (10th Cir. 1992), the Tenth Circuit held that Section 109(g)(2) requires a causal connection between the stay relief motion and the voluntary dismissal. Under this approach, the debtor must have dismissed the case because of the pending stay relief motion. If the dismissal was for an unrelated reason - for example, the debtor found a non-bankruptcy solution - the bar does not apply even though the timing overlapped. Not all circuits follow this approach."
+        "text": "Yes. A debtor who had a prior case dismissed (triggering the 109(g) filing bar) and also received a discharge in an earlier case (triggering a 727(a)(8) or 1328(f) discharge bar) faces both bars simultaneously. The filing bar prevents you from filing for 180 days, and even after that bar expires, the discharge bar prevents you from receiving a discharge. These bars operate independently and stack."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the abuse pattern that 109(g)(2) targets?",
+      "name": "How does 109(g) interact with 362(c)(3) and 362(c)(4)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Section 109(g)(2) targets a specific scheme: a debtor files bankruptcy to invoke the automatic stay and stop a foreclosure or repossession, then voluntarily dismisses the case once the immediate crisis passes, then refiles when the creditor tries again - creating an endless cycle of filings and dismissals that prevent the creditor from ever reaching the collateral. The 180-day bar breaks this cycle."
+        "text": "They compound. During the 109(g) bar period, you cannot file at all - no stay protection. After the bar expires, 362(c)(3) may limit your stay to 30 days (if one prior dismissal in the past year), or 362(c)(4) may eliminate it entirely (if two or more prior dismissals). The practical effect: a debtor subject to both 109(g) and 362(c)(4) may go 180+ days with no bankruptcy protection and then file a new case that offers no automatic stay at all."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I avoid the 109(g)(2) bar by letting the court decide the stay relief motion?",
+      "name": "What is the difference between 109(g) and 362(c)(3)?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. If you do not voluntarily dismiss your case, 109(g)(2) cannot apply. If the court grants the stay relief motion, you lose protection on that specific asset but your case remains open. If the court denies the motion, you keep full stay protection. Either way, no 109(g)(2) issue arises because you did not request dismissal."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What if I need to dismiss my case for reasons unrelated to the stay relief motion?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In jurisdictions that follow the Frieouf causal connection test, you can argue that your dismissal was not caused by the stay relief motion. Document your independent reasons thoroughly - in writing, on the record if possible. In jurisdictions that apply the literal approach (timing alone is enough), your reasons are irrelevant and the bar applies regardless."
+        "text": "Section 109(g) is a filing bar - it prevents you from filing at all for 180 days after certain dismissals. Section 362(c)(3) is a stay limitation - it allows you to file, but limits the automatic stay to 30 days unless the court extends it. 109(g) applies only when dismissal was for willful failure or after a stay relief motion. 362(c)(3) applies to any case dismissed within the past year, regardless of the reason."
       }
     }
   ]
@@ -90,7 +82,7 @@
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": "Network", "item": "https://1328f.com/" },
     { "@type": "ListItem", "position": 2, "name": "109(g) Filing Bar", "item": "https://109g.org/" },
-    { "@type": "ListItem", "position": 3, "name": "Voluntary Dismissal", "item": "https://109g.org/voluntary-dismissal.html" }
+    { "@type": "ListItem", "position": 3, "name": "Compare Bars", "item": "https://109g.org/vs-other-bars.html" }
   ]
 }
 </script>
@@ -122,6 +114,9 @@
   .content-section p { color:var(--text); margin-bottom:0.75rem; font-size:0.95rem; }
   .content-section ul, .content-section ol { margin:0.75rem 0 0.75rem 1.5rem; color:var(--text); font-size:0.95rem; }
   .content-section li { margin-bottom:0.4rem; }
+  .content-section table { width:100%; border-collapse:collapse; margin:1rem 0; font-size:0.9rem; }
+  .content-section th, .content-section td { padding:0.6rem 0.75rem; text-align:left; border-bottom:1px solid var(--border); }
+  .content-section th { color:var(--text-muted); font-size:0.8rem; text-transform:uppercase; letter-spacing:0.5px; font-weight:600; }
   .statute-box { background:#21262d; border-left:3px solid var(--accent); padding:1rem 1.25rem; border-radius:0 6px 6px 0; margin:1rem 0; }
   .statute-box p { margin-bottom:0.5rem; } .statute-box p:last-child { margin-bottom:0; }
   .warning-box { background:#21262d; border-left:3px solid var(--red); padding:1rem 1.25rem; border-radius:0 6px 6px 0; margin:1rem 0; }
@@ -147,6 +142,8 @@
     nav { padding:0.75rem 1rem; } .hamburger { display:block; }
     .nav-links { display:none; width:100%; flex-direction:column; gap:0.75rem; padding-top:0.75rem; }
     .nav-links.open { display:flex; } .cta-box .cta-links { flex-direction:column; gap:0.75rem; }
+    .content-section table { font-size:0.8rem; }
+    .content-section th, .content-section td { padding:0.5rem; }
   }
 </style>
 <script type="application/ld+json">
@@ -158,8 +155,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "109(g)(2) - Voluntary Dismissal After Relief Motion",
-      "description": "If you voluntarily dismissed your bankruptcy case after a creditor filed a motion for relief from the automatic stay, 11 U.S.C. Section 109(g)(2) bars you from ",
+      "headline": "109(g) vs Other Bars",
+      "description": "Compare Section 109(g) (180-day filing bar) with Section 727(a)(8) (8-year discharge bar), Section 1328(f) (Chapter 13 discharge bar), and Sections 362(c)(3)/(4",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -171,53 +168,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://109g.org/voluntary-dismissal.html"
+      "mainEntityOfPage": "https://109g.org/vs-other-bars.html"
     },
     {
       "@type": "HowTo",
-      "name": "109(g)(2) - Voluntary Dismissal After Relief Motion",
+      "name": "109(g) vs Other Bars",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\n109(g)(2) - Voluntary Dismissal After a Relief "
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\n109(g) vs Other Filing Bars - Filing Bars, Disc"
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "text": "After that motion was filed, you requested and obtained a voluntary dismissal of your bankruptcy case. The key word is \"after\" - the stay relief motion must have been filed before you requested dismi"
+          "text": "Duration: 180 days from the dismissal order."
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "text": "11 U.S.C. Section 109(g)(2) - Voluntary dismissal filing bar"
+          "text": "Trigger: Willful failure to obey court orders (109(g)(1)) or voluntary dismissal after a stay relief motion (109(g)(2))."
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "text": "11 U.S.C. Section 362(d) - Grounds for relief from the automatic stay"
+          "text": "Clock starts from: Date of dismissal order."
         },
         {
           "@type": "HowToStep",
           "position": 5,
-          "text": "In re Frieouf, 938 F.2d 1099 (10th Cir. 1992) - Causal connection required"
+          "text": "Effect: You can file a new case and receive the automatic stay, but the court cannot grant you a discharge at the end. Your debts are not eliminated."
         },
         {
           "@type": "HowToStep",
           "position": 6,
-          "text": "serialfiler.org - Serial filing consequences and repeat filer limits"
+          "text": "Duration: 2 to 8 years, depending on the combination of chapters."
         },
         {
           "@type": "HowToStep",
           "position": 7,
-          "text": "dismissedbankruptcy.org - What happens after a bankruptcy dismissal"
+          "text": "Trigger: A prior discharge (not a prior dismissal)."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Clock runs from: Filing date of the prior case to filing date of the new case."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Year 1: Debtor files Chapter 7 and receives a discharge."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Year 3: Debtor files Chapter 13. The case is dismissed for willful failure to obey court orders (debtor ignored the 341 meeting)."
         }
       ]
     },
     {
       "@type": "WebPage",
-      "name": "109(g)(2) - Voluntary Dismissal After Relief Motion",
-      "url": "https://109g.org/voluntary-dismissal.html",
+      "name": "109(g) vs Other Bars",
+      "url": "https://109g.org/vs-other-bars.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -231,29 +243,8 @@
   ]
 }
 </script>
-<link href="https://109g.org/voluntary-dismissal.html" hreflang="en" rel="alternate"/>
-<link href="https://109g.org/voluntary-dismissal-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://109g.org/vs-other-bars.html" hreflang="en" rel="alternate"/>
+<link href="https://109g.org/vs-other-bars-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -262,99 +253,203 @@
 <button aria-expanded="false" aria-label="Toggle navigation menu" class="hamburger" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">☰</button>
 <div class="nav-links">
 <a href="/">Home</a>
-<a class="active" href="/voluntary-dismissal.html">Voluntary Dismissal</a>
+<a href="/voluntary-dismissal.html">Voluntary Dismissal</a>
 <a href="/willful-failure.html">Willful Failure</a>
 <a href="/calculator.html">Calculator</a>
 <a href="/how-to-get-around-it.html">During the 180 Days</a>
-<a href="/vs-other-bars.html">Compare Bars</a>
+<a class="active" href="/vs-other-bars.html">Compare Bars</a>
 <a href="/serial-filer-protection.html">Serial Filers</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">109(g)(2)</span> - Voluntary Dismissal After Relief Motion</h1>
-<p class="subtitle">If you voluntarily dismissed your bankruptcy case after a creditor filed a motion for relief from the automatic stay, the 180-day filing bar may apply.</p>
+<h1><span class="accent">109(g)</span> vs Other Bars</h1>
+<p class="subtitle">Filing bars, discharge bars, and stay limits serve different purposes - and they stack. A debtor can face all three simultaneously.</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">109(g)</a> › Voluntary Dismissal
+<a href="https://1328f.com/">Network</a> › <a href="/">109(g)</a> › Compare Bars
 </div>
 <main id="main-content">
+<!-- Master Comparison Table -->
 <div class="content-section">
-<h2>The Abuse Pattern Congress Targeted</h2>
-<p><a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a>(2) was enacted to stop a specific scheme: a debtor files bankruptcy to invoke the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and halt a foreclosure or repossession. Once the immediate crisis passes and the sale date is postponed, the debtor voluntarily dismisses the case. When the creditor reschedules the sale, the debtor files again - invoking the stay a second time. This cycle can repeat indefinitely, preventing the creditor from ever reaching the collateral while the debtor never actually completes a bankruptcy case.</p>
-<p>Congress closed this loophole by imposing a 180-day filing bar whenever a debtor voluntarily dismisses after a creditor has already asked the court for relief from the stay.</p>
+<h2>The Three Layers of Serial Filing Consequences</h2>
+<p>Congress built a graduated system to deter serial bankruptcy filings. Understanding which layer applies to you - and whether multiple layers stack - is critical before you <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a>.</p>
+<table>
+<tr>
+<th scope="col">Type</th>
+<th scope="col">Statute</th>
+<th scope="col">What It Does</th>
+<th scope="col">Duration</th>
+<th scope="col">Triggered By</th>
+</tr>
+<tr>
+<td><strong style="color:var(--red)">Filing bar</strong></td>
+<td>109(g)</td>
+<td>Cannot file at all</td>
+<td>180 days</td>
+<td>Certain dismissals</td>
+</tr>
+<tr>
+<td><strong style="color:var(--yellow)"><a href="https://dischargebar.org/" title="discharge bar">Discharge bar</a></strong></td>
+<td><a href="https://727a8.com/" title="Section 727(a)(8)">727(a)(8)</a></td>
+<td>Can file, no Ch. 7 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></td>
+<td>8 years</td>
+<td>Prior Ch. 7 <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a></td>
+</tr>
+<tr>
+<td><strong style="color:var(--yellow)"><a href="https://dischargebar.org/" title="discharge bar">Discharge bar</a></strong></td>
+<td>727(a)(9)</td>
+<td>Can file, no Ch. 7 discharge</td>
+<td>6 years</td>
+<td>Prior Ch. 12/13 discharge</td>
+</tr>
+<tr>
+<td><strong style="color:var(--yellow)">Discharge bar</strong></td>
+<td><a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a>(1)</td>
+<td>Can file, no Ch. 13 discharge</td>
+<td>4 years</td>
+<td>Prior Ch. 7/11/12 discharge</td>
+</tr>
+<tr>
+<td><strong style="color:var(--yellow)">Discharge bar</strong></td>
+<td><a href="https://1328f.com/" title="Section 1328(f)">1328(f)</a>(2)</td>
+<td>Can file, no Ch. 13 discharge</td>
+<td>2 years</td>
+<td>Prior Ch. 13 discharge</td>
+</tr>
+<tr>
+<td><strong style="color:var(--accent)">Reduced stay</strong></td>
+<td>362(c)(3)</td>
+<td>Stay expires after 30 days</td>
+<td>1 year lookback</td>
+<td>1 prior <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a> in past year</td>
+</tr>
+<tr>
+<td><strong style="color:var(--accent)">No stay</strong></td>
+<td>362(c)(4)</td>
+<td>No <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> at all</td>
+<td>1 year lookback</td>
+<td>2+ prior dismissals in past year</td>
+</tr>
+</table>
 </div>
+<!-- Filing Bar vs Discharge Bar -->
 <div class="content-section">
-<h2>The Two Conditions</h2>
-<p>For 109(g)(2) to apply, two things must have happened in this sequence:</p>
-<ol>
-<li><strong>A creditor filed a motion for relief from the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a></strong> under <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(d). This is typically a mortgage company asking to proceed with foreclosure, an auto lender asking to repossess a vehicle, or a landlord seeking to resume eviction proceedings.</li>
-<li><strong>After that motion was filed, you requested and obtained a voluntary <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a></strong> of your bankruptcy case. The key word is "after" - the stay relief motion must have been filed before you requested <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>.</li>
-</ol>
-<div class="green-box">
-<p><strong>If no creditor filed a stay relief motion:</strong> 109(g)(2) does not apply. You can <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> immediately (subject to <a href="https://automaticstay.org">automatic stay limits for repeat filers</a> under 362(c)(3) and 362(c)(4)).</p>
-</div>
-<div class="yellow-box">
-<p><strong>If the court dismissed your case</strong> (rather than you requesting dismissal): 109(g)(2) does not apply. That subsection only covers voluntary dismissals requested by the debtor. However, 109(g)(1) might apply if the court-ordered dismissal was for willful failure to obey orders. See <a href="/willful-failure.html">109(g)(1) - Willful Failure</a>.</p>
-</div>
-</div>
-<div class="content-section">
-<h2>The Causal Connection Debate</h2>
-<p>Courts are divided on a critical question: does 109(g)(2) require the voluntary dismissal to have been <em>caused by</em> the stay relief motion, or is the mere timing (dismissal after motion) enough?</p>
-<h3>The Frieouf Approach - Causal Connection Required</h3>
+<h2>Filing Bars vs Discharge Bars</h2>
+<h3>Filing Bar - <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a></h3>
+<ul>
+<li><strong>Effect:</strong> You cannot file any bankruptcy case. No petition, no case number, no <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, no creditor protection.</li>
+<li><strong>Duration:</strong> 180 days from the dismissal order.</li>
+<li><strong>Trigger:</strong> Willful failure to obey court orders (109(g)(1)) or voluntary dismissal after a stay relief motion (109(g)(2)).</li>
+<li><strong>Clock starts from:</strong> Date of dismissal order.</li>
+</ul>
+<h3>Discharge Bar - Sections 727(a)(8)/(9), 1328(f)</h3>
+<ul>
+<li><strong>Effect:</strong> You can file a new case and receive the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, but the court cannot grant you a discharge at the end. Your debts are not eliminated.</li>
+<li><strong>Duration:</strong> 2 to 8 years, depending on the combination of chapters.</li>
+<li><strong>Trigger:</strong> A prior discharge (not a prior dismissal).</li>
+<li><strong>Clock runs from:</strong> Filing date of the prior case to filing date of the new case.</li>
+</ul>
 <div class="statute-box">
-<p>The Tenth Circuit, in <strong><em>In re Frieouf</em>, 938 F.2d 1099 (10th Cir. 1992)</strong>, held that a causal connection is required. Under this approach, the debtor must have dismissed the case <em>because of</em> the pending stay relief motion. If the debtor can show the dismissal was for an unrelated reason - for example, the debtor found a non-bankruptcy solution to their debts, or reached a workout agreement with all creditors - the 180-day bar does not apply even though the timing overlapped.</p>
-<p>The <em>Frieouf</em> court reasoned that Congress intended to prevent abuse, and a debtor who dismisses for independent reasons is not engaged in the stay-abuse pattern the statute targets.</p>
+<p><strong>Key difference:</strong> A filing bar is triggered by a <strong>dismissal</strong>. A <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> is triggered by a <strong>discharge</strong>. They are not mutually exclusive - a debtor with both a dismissed case and an earlier discharged case can face both bars at the same time.</p>
 </div>
-<h3>The Literal Approach - Timing Is Enough</h3>
+<div class="green-box">
+<p><strong>Why this matters strategically:</strong> If you face a <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a> but not a filing bar, you can still file and receive the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>. This may be worthwhile to stop a foreclosure or repossession even if you will not receive a discharge. The temporary stay protection alone can buy critical time. If you face a filing bar, you get nothing until it expires.</p>
+</div>
+</div>
+<!-- 109(g) vs 362(c)(3)/(4) -->
+<div class="content-section">
+<h2>109(g) vs 362(c)(3) and 362(c)(4) - Stay Limits</h2>
+<table>
+<tr>
+<th scope="col">Feature</th>
+<th scope="col">109(g)</th>
+<th scope="col">362(c)(3)</th>
+<th scope="col">362(c)(4)</th>
+</tr>
+<tr>
+<td><strong>What it does</strong></td>
+<td>Bars you from filing</td>
+<td>Stay expires in 30 days</td>
+<td>No stay at all</td>
+</tr>
+<tr>
+<td><strong>Trigger</strong></td>
+<td>Willful failure or vol. dismissal after stay relief</td>
+<td>1 prior <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> in past year</td>
+<td>2+ prior cases dismissed in past year</td>
+</tr>
+<tr>
+<td><strong>Duration</strong></td>
+<td>180 days</td>
+<td>30 days (unless extended)</td>
+<td>Until court imposes stay</td>
+</tr>
+<tr>
+<td><strong>Can be overcome?</strong></td>
+<td>No (or argue it does not apply)</td>
+<td>Yes - motion to extend stay</td>
+<td>Yes - motion to impose stay</td>
+</tr>
+<tr>
+<td><strong>Lookback period</strong></td>
+<td>180 days from dismissal</td>
+<td>1 year from prior dismissal</td>
+<td>1 year from prior dismissals</td>
+</tr>
+</table>
 <div class="warning-box">
-<p>Other courts read the statute more strictly. The text says "the debtor requested and obtained the voluntary dismissal of the case <em>following</em> the filing of a request for relief from the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>." Under the literal approach, "following" means "after" - nothing more. If a stay relief motion was filed and the debtor then voluntarily dismissed, the bar applies regardless of the debtor's subjective reasons.</p>
-<p>Under this approach, the only way to avoid the bar is to avoid the sequence entirely: do not voluntarily dismiss while a stay relief motion is pending.</p>
+<p><strong>The compounding effect:</strong> A debtor whose case is dismissed for willful failure faces the 109(g) bar for 180 days. After the bar expires, if the dismissal was within the past year, 362(c)(3) limits the stay in the new case to 30 days. If the debtor had two or more prior dismissals in the past year, 362(c)(4) eliminates the stay entirely. The net result: months without any bankruptcy protection, followed by a filing with severely limited or no protection.</p>
 </div>
-<p>Which approach applies to you depends on your circuit and sometimes your individual judge. Before voluntarily dismissing a case where a creditor has filed a stay relief motion, you need to understand how courts in your district interpret this provision. The stakes are high: if you dismiss and the bar applies, you lose all bankruptcy protection for 180 days.</p>
 </div>
+<!-- Stacking Scenario -->
 <div class="content-section">
-<h2>Strategic Alternatives</h2>
-<p>If a creditor has filed a stay relief motion and you are considering voluntary dismissal, you have several options:</p>
-<h3>1. Let the Court Decide the Stay Relief Motion</h3>
-<p>If the court grants stay relief on the specific property, you lose protection for that asset but your case stays open for everything else. If the court denies the motion, you keep full protection. Either way, no 109(g)(2) issue arises because you did not request dismissal.</p>
-<h3>2. Negotiate With the Creditor</h3>
-<p>Many stay relief motions are resolved by agreement. The debtor agrees to <a href="https://relieffromstay.org/" title="adequate protection">adequate protection</a> payments (such as making current mortgage payments plus an arrearage cure), and the creditor withdraws the motion. If the motion is withdrawn before you dismiss, the sequence that triggers 109(g)(2) may not be complete.</p>
-<h3>3. Document Your Independent Reasons</h3>
-<p>If you are in a jurisdiction that follows the <em>Frieouf</em> causal connection test, document that your dismissal is for reasons unrelated to the stay relief motion. Put it in writing. File a declaration on the record if possible. This creates evidence you can point to if the issue comes up in a future filing.</p>
-<h3>4. Convert Rather Than Dismiss</h3>
-<p>Converting your case from one chapter to another (for example, <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> to <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, or <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> to <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>) is not a voluntary dismissal. Conversion keeps your case open under a different chapter. Some courts have held that 109(g)(2) does not apply to conversions because the debtor did not "request and obtain the voluntary dismissal" of the case.</p>
+<h2>How These Bars Stack - A Real-World Scenario</h2>
+<p>Consider this sequence:</p>
+<ol>
+<li><strong>Year 1:</strong> Debtor files <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> and receives a discharge.</li>
+<li><strong>Year 3:</strong> Debtor files <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>. The case is dismissed for willful failure to obey court orders (debtor ignored the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>).</li>
+<li><strong>Year 3, Day 1:</strong> The 109(g)(1) filing bar begins. Debtor cannot file any case for 180 days.</li>
+<li><strong>Year 3, Day 181:</strong> The filing bar expires. Debtor can now file, BUT:
+        <ul>
+<li><strong>362(c)(3)</strong> limits the stay to 30 days (1 prior dismissal within past year)</li>
+<li><strong>1328(f)(1)</strong> bars a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> discharge for 4 years from the <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> filing date (Year 1)</li>
+<li><strong><a href="https://727a8.com/" title="Section 727(a)(8)">727(a)(8)</a></strong> bars a Chapter 7 discharge for 8 years from the Chapter 7 filing date (Year 1)</li>
+</ul>
+</li>
+</ol>
+<p>The debtor can file, but will receive at most 30 days of stay protection and no discharge in either Chapter 7 or Chapter 13. All three layers are active simultaneously.</p>
 <div class="yellow-box">
-<p><strong>Timing matters.</strong> If you wait until the court rules on the stay relief motion and then dismiss, the calculus may be different than if you dismiss while the motion is still pending. Discuss timing with a bankruptcy attorney before taking action.</p>
+<p><strong>Bottom line:</strong> Serial filings create compounding consequences. Each dismissal and each discharge creates a new limitation that stacks on top of existing ones. The system is designed to make repeated abuse of the bankruptcy process progressively harder and less rewarding.</p>
 </div>
 </div>
+<!-- Cross-reference links -->
 <div class="content-section">
-<h2>Common Scenarios</h2>
-<h3>Scenario 1: Mortgage foreclosure defense</h3>
-<p>You file Chapter 13 to stop a foreclosure sale. The mortgage company files a <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from stay, arguing you are not making <a href="https://relieffromstay.org/" title="adequate protection">adequate protection</a> payments. Rather than fight the motion, you voluntarily dismiss your case.</p>
-<p><strong>Result:</strong> 109(g)(2) applies. You cannot <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> for 180 days. The mortgage company can proceed with foreclosure during that time with no bankruptcy protection available to you.</p>
-<h3>Scenario 2: Auto loan repossession</h3>
-<p>You file Chapter 7 to stop an auto repossession. The auto lender files a motion for stay relief, arguing the vehicle is depreciating and the loan balance exceeds the value. You decide to voluntarily dismiss because you found other financing to pay off the auto loan outside of bankruptcy.</p>
-<p><strong>Result:</strong> In <em>Frieouf</em> jurisdictions, you may argue no causal connection - you dismissed for an independent reason. In literal-approach jurisdictions, the bar applies regardless of your reason.</p>
-<h3>Scenario 3: Voluntary dismissal before any stay relief motion</h3>
-<p>You file Chapter 13, realize you cannot afford the plan payments, and voluntarily dismiss. No creditor has filed a motion for stay relief.</p>
-<p><strong>Result:</strong> 109(g)(2) does not apply. You can refile immediately, though <a href="https://automaticstay.org">automatic stay limits</a> under 362(c)(3) may reduce your stay protection.</p>
+<h2>Deep Dives on Each Bar</h2>
+<ul>
+<li><strong>Filing bar - 109(g):</strong> You are here. See <a href="/">109g.org home</a>, <a href="/willful-failure.html">109(g)(1)</a>, and <a href="/voluntary-dismissal.html">109(g)(2)</a>.</li>
+<li><strong>Discharge bar - 727(a)(8):</strong> See <a href="https://727a8.com">727a8.com</a> for the 8-year Chapter 7 <a href="https://dischargebar.org" rel="noopener" target="_blank" title="Bankruptcy Discharge Bar - Open Bankruptcy Project">discharge bar</a>.</li>
+<li><strong>Discharge bar - 1328(f):</strong> See <a href="https://1328f.com">1328f.com</a> for the free discharge eligibility screener covering all chapter combinations.</li>
+<li><strong>Stay limits - 362(c)(3)/(4):</strong> See <a href="https://automaticstay.org">automaticstay.org</a> for the complete guide to the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a>, including <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Repeat Bankruptcy Filers - Open Bankruptcy Project">repeat filer</a> limits.</li>
+<li><strong><a href="https://serialfiler.org/" title="serial filer">Serial filing</a> overview:</strong> See <a href="https://serialfiler.org">serialfiler.org</a> for a unified guide to all <a href="https://serialfiler.org/" title="serial filer">serial filing</a> consequences.</li>
+<li><strong>Dismissed bankruptcy:</strong> See <a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> for what happens after dismissal and next steps.</li>
+</ul>
 </div>
 <div class="cta-box">
-<h3>Calculate Your Earliest Refiling Date</h3>
-<p>If 109(g)(2) applies, use the calculator to find the exact day the 180-day bar expires.</p>
+<h3>Check All Bars at Once</h3>
+<p>The free screener at 1328f.com checks filing bars, discharge bars, and stay limitations based on your case history.</p>
 <div class="cta-links">
-<a class="primary-btn" href="/calculator.html">180-Day Calculator</a>
-<a class="secondary-btn" href="/vs-other-bars.html">Compare Bars</a>
+<a class="primary-btn" href="https://1328f.com?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
+<a class="secondary-btn" href="/calculator.html">180-Day Calculator</a>
 </div>
 </div>
 <div class="content-section">
 <h2>Legal References</h2>
 <ul>
-<li><a href="https://www.law.cornell.edu/uscode/text/11/109">11 U.S.C. Section 109(g)(2)</a> - Voluntary dismissal filing bar</li>
-<li><a href="https://www.law.cornell.edu/uscode/text/11/362">11 U.S.C. Section 362(d)</a> - Grounds for relief from the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a></li>
-<li><em>In re Frieouf</em>, 938 F.2d 1099 (10th Cir. 1992) - Causal connection required</li>
-<li><a href="https://serialfiler.org">serialfiler.org</a> - <a href="https://serialfiler.org/" title="serial filer">Serial filing</a> consequences and <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Repeat Bankruptcy Filers - Open Bankruptcy Project">repeat filer</a> limits</li>
-<li><a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> - What happens after a bankruptcy dismissal</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/109">11 U.S.C. Section 109(g)</a> - Filing bar (180 days)</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/727">11 U.S.C. Section 727(a)(8)/(9)</a> - Chapter 7 discharge bars (8 years / 6 years)</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/1328">11 U.S.C. Section 1328(f)</a> - Chapter 13 discharge bars (4 years / 2 years)</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/362">11 U.S.C. Section 362(c)(3)/(4)</a> - <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Repeat Bankruptcy Filers - Open Bankruptcy Project">Repeat filer</a> <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> limits</li>
+<li><em>In re Frieouf</em>, 938 F.2d 1099 (10th Cir. 1992) - Causal connection required for 109(g)(2)</li>
 </ul>
 </div>
 <!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
@@ -417,7 +512,7 @@
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://relieffromstay.org/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Relief from Automatic Stay</a> <span style="color:#7d8590;font-size:0.8rem">-- relieffromstay.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -440,7 +535,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->

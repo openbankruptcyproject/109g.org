@@ -17,25 +17,25 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Serial Filer Protections - How 109(g) and 362(c) Work Together</title>
-<meta content="Learn about serial filer protections - how 109(g) and 362(c) work together | 109g.org in our free 2026 guide." name="description"/>
-<meta content="109(g) serial filer automatic stay limits, serial bankruptcy filer, 362(c)(3) stay limitation, 362(c)(4) no automatic stay, repeat bankruptcy filer, multiple bankruptcy filings, extend automatic stay after repeat filing, good faith motion to extend stay" name="keywords"/>
-<link href="https://109g.org/serial-filer-protection.html" rel="canonical"/>
-<link href="https://109g.org/serial-filer-protection.html" hreflang="en" rel="alternate"/>
+<title>Bankruptcy Dismissed for Cause - Can I Refile? - 109(g)</title>
+<meta content="If your bankruptcy was dismissed for cause, you may face a 180-day filing bar under Section 109(g)." name="description"/>
+<meta content="bankruptcy dismissed for cause can I refile, dismissed for cause 109g, bankruptcy dismissal for cause, refile after bankruptcy dismissal, willful failure bankruptcy, dismissed with prejudice vs without prejudice, dismissed bankruptcy next steps" name="keywords"/>
+<link href="https://109g.org/dismissed-for-cause.html" rel="canonical"/>
+<link href="https://109g.org/dismissed-for-cause.html" hreflang="en" rel="alternate"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
 <link href="/manifest.json" rel="manifest"/>
 <meta content="#0d1117" name="theme-color"/>
 <meta content="2026-03-28" name="last-modified"/>
 <!-- Open Graph -->
-<meta content="Serial Filer Protections - How 109(g) and 362(c) Work Together" property="og:title"/>
-<meta content="Learn about serial filer protections - how 109(g) and 362(c) work together | 109g.org in our free 2026 guide." property="og:description"/>
+<meta content="Bankruptcy Dismissed for Cause - Can I Refile? - 109(g)" property="og:title"/>
+<meta content="If your bankruptcy was dismissed for cause, you may face a 180-day filing bar under Section 109(g)." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://109g.org/serial-filer-protection.html" property="og:url"/>
+<meta content="https://109g.org/dismissed-for-cause.html" property="og:url"/>
 <meta content="109g.org" property="og:site_name"/>
 <!-- Twitter Card -->
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Serial Filer Protections - How 109(g) and 362(c) Work Together" name="twitter:title"/>
-<meta content="Learn about serial filer protections - how 109(g) and 362(c) work together | 109g.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Bankruptcy Dismissed for Cause - Can I Refile? - 109(g)" name="twitter:title"/>
+<meta content="If your bankruptcy was dismissed for cause, you may face a 180-day filing bar under Section 109(g)." name="twitter:description"/>
 <meta content="/og-image.svg" property="og:image"/>
 <meta content="/og-image.svg" name="twitter:image"/>
 <!-- Organization Schema -->
@@ -73,34 +73,34 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What happens to the automatic stay if I have filed before?",
+      "name": "What counts as 'cause' for bankruptcy dismissal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "If you had one prior case pending that was dismissed within the past year, the automatic stay in your new case lasts only 30 days under Section 362(c)(3), unless the court extends it after finding good faith and changed circumstances. If you had two or more prior cases pending that were dismissed within the past year, there is no automatic stay at all under Section 362(c)(4) - you must ask the court to impose it. These limitations apply regardless of whether Section 109(g) applies."
+        "text": "A bankruptcy case can be dismissed 'for cause' for many reasons, including failure to file required schedules or documents, failure to attend the 341 meeting of creditors, failure to make plan payments, failure to complete credit counseling, failure to provide tax returns, abuse of the bankruptcy process, or violating court orders. However, not all dismissals 'for cause' trigger the 180-day filing bar under Section 109(g). Only dismissals specifically for 'willful failure to abide by orders of the court, or to appear before the court' activate the bar."
       }
     },
     {
       "@type": "Question",
-      "name": "How do I get the stay extended after a repeat filing?",
+      "name": "Is every dismissal for cause a 180-day bar?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You must file a motion to extend the automatic stay under Section 362(c)(3)(B) within 30 days of filing your new petition. The motion must be heard before the 30-day period expires. You must demonstrate by clear and convincing evidence that the new case was filed in good faith - meaning there has been a substantial change in your financial affairs or personal circumstances since the last case, and the new case is being filed with a genuine intent to reorganize or liquidate, not just to invoke the stay."
+        "text": "No. Most dismissals for cause do not trigger the 180-day filing bar. The bar under Section 109(g)(1) only applies when the court dismisses for 'willful failure' to obey court orders or appear before the court. A dismissal for failing to make plan payments, failing the means test, or failing to complete credit counseling is technically 'for cause' but does not trigger 109(g). The word 'willful' is the critical distinction - the failure must be deliberate, not merely negligent or due to circumstances beyond the debtor's control."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the difference between 109(g) and 362(c)?",
+      "name": "What if my attorney caused the failure that led to dismissal?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Section 109(g) is a filing bar - it prevents you from filing a bankruptcy petition at all for 180 days. Section 362(c)(3) and 362(c)(4) are stay limitations - they allow you to file but restrict or eliminate the automatic stay protection in your new case. The two provisions can apply at the same time. For example, if you voluntarily dismiss after a stay relief motion (triggering 109(g)(2)), you must wait 180 days to file. When you do file, if it is within one year of the dismissal, 362(c)(3) limits your stay to 30 days."
+        "text": "If your attorney's negligence - not your own willful conduct - caused the failure that led to dismissal, you may have a strong argument that the failure was not 'willful' on your part. Courts have held that attorney errors, missed deadlines, or failures to communicate court orders to clients may not constitute the debtor's 'willful' failure. However, this argument does not always succeed. Some courts hold that the debtor is responsible for their attorney's actions. If your attorney's malpractice caused your case to be dismissed, you may also have a separate legal malpractice claim against the attorney."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I be a serial filer in good faith?",
+      "name": "How do I refile after dismissal for cause?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Not every repeat filing is abusive. People sometimes need to refile because their financial circumstances changed, because their prior attorney made errors, because they chose the wrong chapter initially, or because a life event (job loss, medical emergency, divorce) disrupted their prior case. Courts recognize this and allow the stay to be extended or imposed if the debtor can demonstrate good faith and changed circumstances. The key is showing that the new filing is genuine - not just a tactic to invoke the automatic stay."
+        "text": "If the 180-day bar applies, you must wait until the bar expires before filing a new petition. Use the calculator at 109g.org/calculator.html to find your earliest refiling date. When you do refile, be aware that filing within one year of a prior dismissal triggers automatic stay limitations under Sections 362(c)(3) and 362(c)(4). You may need to file a motion to extend or impose the automatic stay within 30 days of filing. Address whatever caused the prior dismissal before refiling - complete credit counseling, gather all documents, and be prepared to comply with all court orders from day one."
       }
     }
   ]
@@ -127,8 +127,8 @@
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "Serial Filer Protections",
-      "item": "https://109g.org/serial-filer-protection.html"
+      "name": "Dismissed for Cause",
+      "item": "https://109g.org/dismissed-for-cause.html"
     }
   ]
 }
@@ -139,8 +139,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Serial Filer Protections",
-      "description": "If you have filed bankruptcy multiple times, you face both filing bars under 109(g) and automatic stay limits under 362(c). Learn how these protections interact",
+      "headline": "Bankruptcy Dismissed for Cause",
+      "description": "If your bankruptcy was dismissed for cause, you may face a 180-day filing bar under Section 109(g). Learn what counts as",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -152,68 +152,12 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://109g.org/serial-filer-protection.html"
-    },
-    {
-      "@type": "HowTo",
-      "name": "Serial Filer Protections",
-      "step": [
-        {
-          "@type": "HowToStep",
-          "position": 1,
-          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nSerial Filer Protections - How 109(g) and 362(c"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 2,
-          "text": "Section 362(c)(3) and 362(c)(4) - Automatic stay limitations that reduce or eliminate the stay for repeat filers, even when they are allowed to file"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 3,
-          "text": "Days 1-180: You cannot file at all. No bankruptcy protection. Creditors can take any action."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 4,
-          "text": "Day 181: You can file a new case. But because the new filing is within one year of the prior dismissal, the automatic stay under 362(c)(3) lasts only 30 days."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 5,
-          "text": "Day 181-211: You have the automatic stay for 30 days. You must file a motion to extend the stay and get a hearing before day 211."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 6,
-          "text": "Day 212+: If the court extended the stay, full protection continues. If not, the stay has expired."
-        },
-        {
-          "@type": "HowToStep",
-          "position": 7,
-          "text": "If 109(g) applies, you wait 180 days with no protection"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 8,
-          "text": "When you refile, 362(c)(4) means no automatic stay at all"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 9,
-          "text": "You must file a motion to impose the stay and convince the court you are acting in good faith"
-        },
-        {
-          "@type": "HowToStep",
-          "position": 10,
-          "text": "Changed circumstances: Has something meaningful changed since the last case? New employment? Resolved the issue that caused the prior dismissal? Medical recovery? Divorce finalized?"
-        }
-      ]
+      "mainEntityOfPage": "https://109g.org/dismissed-for-cause.html"
     },
     {
       "@type": "WebPage",
-      "name": "Serial Filer Protections",
-      "url": "https://109g.org/serial-filer-protection.html",
+      "name": "Bankruptcy Dismissed for Cause",
+      "url": "https://109g.org/dismissed-for-cause.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -517,28 +461,7 @@
     .content-section th, .content-section td { padding: 0.5rem; }
   }
 </style>
-<link href="https://109g.org/serial-filer-protection-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://109g.org/dismissed-for-cause-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -552,190 +475,178 @@
 <a href="/calculator.html">Calculator</a>
 <a href="/how-to-get-around-it.html">During the 180 Days</a>
 <a href="/vs-other-bars.html">Compare Bars</a>
-<a class="active" href="/serial-filer-protection.html">Serial Filers</a>
+<a href="/serial-filer-protection.html">Serial Filers</a>
 </div>
 </nav>
 <header>
-<h1><span class="accent">Serial Filer</span> Protections</h1>
-<p class="subtitle">Congress built a two-layer defense against repeat bankruptcy filings: <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a> bars you from filing, and Section 362(c) limits your automatic stay even when you can file. Here is how they work together.</p>
+<h1>Bankruptcy <span class="accent">Dismissed for Cause</span></h1>
+<p class="subtitle">If your bankruptcy was dismissed "for cause," you need to understand whether it triggers the 180-day filing bar - and most of the time, it does not.</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="https://1328f.com/">Network</a> › <a href="/">109(g) Filing Bar</a> › Serial Filer Protections
+<a href="https://1328f.com/">Network</a> › <a href="/">109(g) Filing Bar</a> › Dismissed for Cause
 </div>
 <main id="main-content">
-<!-- The Serial Filing Problem -->
+<!-- What Does "Dismissed for Cause" Mean? -->
 <div class="content-section">
-<h2>The Serial Filing Problem</h2>
-<p>A "<a href="https://serialfiler.org" rel="noopener" target="_blank" title="Serial Bankruptcy Filers - Open Bankruptcy Project">serial filer</a>" is someone who files bankruptcy repeatedly - often not to reorganize their debts or get a <a href="https://bankruptcyfreshstart.org" rel="noopener" target="_blank" title="Fresh Start After Bankruptcy - Open Bankruptcy Project">fresh start</a>, but to use the <strong><a href="https://automaticstay.org/" title="automatic stay">automatic stay</a></strong> as a shield against creditor action. Each new filing triggers an <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> that stops foreclosures, repossessions, garnishments, and lawsuits. A debtor who files, gets the stay, lets the case fail, and refiles can theoretically hold creditors at bay indefinitely.</p>
-<p>This was a real problem before Congress addressed it. Mortgage companies and car lenders reported debtors who filed four, five, even ten consecutive bankruptcy cases - each time getting a fresh <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and delaying enforcement for weeks or months before the case was dismissed or converted.</p>
-<p>Congress responded with two complementary provisions:</p>
-<ul>
-<li><strong>Section 109(g)</strong> - A 180-day filing bar that prevents certain dismissed debtors from filing at all</li>
-<li><strong>Section 362(c)(3) and 362(c)(4)</strong> - <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">Automatic stay</a> limitations that reduce or eliminate the stay for repeat filers, even when they are allowed to file</li>
-</ul>
-<p>Together, these provisions create a multi-layered defense. Understanding how they interact is essential if you have had a prior <a href="https://dismissedbankruptcy.org/" title="dismissal">bankruptcy dismissed</a> and need to <a href="https://canifileagain.org/" title="file bankruptcy again">file again</a>.</p>
+<h2>What Does "Dismissed for Cause" Mean?</h2>
+<p>"Dismissed for cause" means the bankruptcy court ended your case because of something you did or failed to do. It is the opposite of a voluntary <a href="https://dismissedbankruptcy.org/" title="dismissal">dismissal</a>, where you asked the court to close the case. When a case is dismissed for cause, the court is saying: something went wrong, and this case cannot continue.</p>
+<p>But "for cause" is a broad category. It covers everything from minor procedural failures to deliberate defiance of court authority. The consequences vary enormously depending on the specific reason for the dismissal.</p>
+<div class="yellow-box">
+<p><strong>Key point:</strong> Being dismissed "for cause" does not automatically mean you face a 180-day filing bar. The bar under <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a>(1) only applies when the dismissal was for <strong>willful</strong> failure to obey court orders or appear before the court. Many "for cause" dismissals fall outside that narrow trigger.</p>
 </div>
-<!-- Section 109(g): The Filing Bar -->
+</div>
+<!-- Three Types of Dismissal -->
 <div class="content-section">
-<h2>Layer 1: Section 109(g) - The Filing Bar</h2>
-<p>Section 109(g) prevents you from being a debtor at all for 180 days after a dismissal under specific conditions. If the bar applies, no case is opened, no stay takes effect, and no bankruptcy protection begins.</p>
-<div class="statute-box">
-<p><strong>Two triggers:</strong></p>
-<p><strong>109(g)(1):</strong> <a href="https://dismissedbankruptcy.org/" title="dismissal">Case dismissed</a> for willful failure to obey court orders or appear before the court</p>
-<p><strong>109(g)(2):</strong> Debtor voluntarily dismissed after a creditor filed a <a href="https://relieffromstay.org" rel="noopener" target="_blank" title="Motion for Relief from Stay - Open Bankruptcy Project">motion for relief</a> from the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a></p>
-</div>
-<p>If neither trigger applies - for example, your case was dismissed because you could not make plan payments - Section 109(g) does not bar you from refiling. But <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Section 362 Automatic Stay - Open Bankruptcy Project">Section 362</a>(c) may still affect your new case.</p>
-<p>For full details on these triggers, see <a href="/willful-failure.html">Willful Failure (109(g)(1))</a> and <a href="/voluntary-dismissal-bar.html">Voluntary Dismissal Bar (109(g)(2))</a>.</p>
-</div>
-<!-- Section 362(c): Stay Limitations -->
-<div class="content-section">
-<h2>Layer 2: Section 362(c) - Automatic Stay Limitations</h2>
-<p>Even when Section 109(g) does not apply (or after the 180-day bar has expired), repeat filers face <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> limitations under Section 362(c). These provisions were added by <a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a> in 2005 and apply regardless of the reason for the prior dismissal.</p>
-<h3>362(c)(3) - One Prior Case: 30-Day Stay</h3>
-<div class="statute-box">
-<p><strong>11 U.S.C. Section 362(c)(3):</strong> If the debtor had a single case pending within the preceding one-year period that was dismissed, the <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> in the new case terminates on the 30th day after the new filing - unless the court extends it after finding that the new case was filed in <a href="https://chapter13plan.org/" title="good faith">good faith</a>.</p>
-</div>
-<p>This means you get 30 days of automatic stay protection. After that, unless the court has entered an order extending the stay, it expires and creditors can resume all collection activity. The 30 days is a hard deadline - if you have not obtained a court order extending the stay by day 30, you lose it.</p>
-<h3>362(c)(4) - Two or More Prior Cases: No Stay At All</h3>
-<div class="statute-box">
-<p><strong>11 U.S.C. Section 362(c)(4):</strong> If the debtor had two or more cases pending within the preceding one-year period that were dismissed, the automatic stay does not go into effect at all when the new case is filed - unless the court orders otherwise within 30 days.</p>
-</div>
+<h2>Three Types of Dismissal</h2>
+<p>Understanding the type of dismissal you received is critical to knowing your options.</p>
+<h3>1. Dismissed Without Prejudice</h3>
+<p>This is the most common outcome. "Without prejudice" means you are free to <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> a new bankruptcy case. The court is not punishing you - it is simply closing this particular case. You may need to wait 180 days if the dismissal was for willful failure under 109(g)(1), but in many cases you can refile immediately.</p>
+<p>Most routine dismissals - failure to make plan payments, failure to file schedules on time, failure to complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a> - are without prejudice.</p>
+<h3>2. Dismissed With Prejudice</h3>
+<p>This is more serious. "With prejudice" means the court is barring you from refiling for a specific period, often 180 days but sometimes longer (up to one year or even permanently in extreme cases). Courts impose this when they find the debtor acted in bad faith or abused the bankruptcy process.</p>
 <div class="warning-box">
-<p><strong>No stay means no protection.</strong> Under 362(c)(4), creditors can foreclose, repossess, garnish, and sue from the moment you file. The filing itself does not create any automatic protection. You must affirmatively ask the court to impose the stay, and the court must act within 30 days of your filing.</p>
+<p><strong>Dismissed with prejudice is different from 109(g).</strong> A court can dismiss with prejudice and impose a refiling bar as part of its dismissal order, independent of Section 109(g). This is done under the court's inherent power or under specific code sections like 349(a) and 105(a). The refiling bar in the dismissal order may be shorter or longer than 180 days.</p>
 </div>
-<h3>Summary Table</h3>
+<h3>3. Dismissed With a Bar to Refiling</h3>
+<p>Some dismissal orders include a specific refiling bar - for example, "Debtor may not refile any bankruptcy case for 180 days" or "Debtor is barred from filing for one year." This is a court-imposed bar that may operate independently of Section 109(g). If your dismissal order includes such language, that is the controlling timeline, even if 109(g) would not otherwise apply.</p>
+</div>
+<!-- Common Reasons for Dismissal -->
+<div class="content-section">
+<h2>Common Reasons for Dismissal and Whether 109(g) Applies</h2>
 <table>
 <tr>
-<th scope="col">Prior Cases Dismissed Within 1 Year</th>
-<th scope="col">Stay Status</th>
-<th scope="col">Action Required</th>
+<th scope="col">Reason for Dismissal</th>
+<th scope="col">109(g) Bar?</th>
+<th scope="col">Notes</th>
 </tr>
 <tr>
-<td>None</td>
-<td><strong style="color:var(--green)">Full stay - no limitation</strong></td>
-<td>None</td>
+<td>Failure to file schedules or statements of financial affairs</td>
+<td><strong style="color:var(--yellow)">Maybe</strong></td>
+<td>Only if the court finds the failure was "willful" - not just late or confused</td>
 </tr>
 <tr>
-<td>One</td>
-<td><strong style="color:var(--yellow)">Stay expires after 30 days</strong></td>
-<td>File motion to extend within 30 days; show <a href="https://chapter13plan.org/" title="good faith">good faith</a> + changed circumstances</td>
+<td>Failure to attend the 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a></td>
+<td><strong style="color:var(--yellow)">Maybe</strong></td>
+<td>Missing once due to emergency: probably not willful. Missing repeatedly without explanation: likely willful</td>
 </tr>
 <tr>
-<td>Two or more</td>
-<td><strong style="color:var(--red)">No stay at all</strong></td>
-<td>File motion to impose stay within 30 days; show good faith + changed circumstances</td>
+<td>Failure to make <a href="https://chapter13plan.org" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> payments</td>
+<td><strong style="color:var(--green)">No</strong></td>
+<td>Financial inability is not willful defiance of court orders</td>
+</tr>
+<tr>
+<td>Failure to complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a></td>
+<td><strong style="color:var(--green)">No</strong></td>
+<td>Procedural requirement, not a court order violation</td>
+</tr>
+<tr>
+<td>Failure to provide tax returns to the trustee</td>
+<td><strong style="color:var(--yellow)">Maybe</strong></td>
+<td>Depends on whether the court ordered production and the debtor willfully refused</td>
+</tr>
+<tr>
+<td>Failure to appear at a court hearing</td>
+<td><strong style="color:var(--yellow)">Maybe</strong></td>
+<td>Must be willful - a single missed hearing with good cause is usually not enough</td>
+</tr>
+<tr>
+<td>Bad faith filing (abuse of process)</td>
+<td><strong style="color:var(--green)">Not under 109(g)</strong></td>
+<td>Court may impose its own refiling bar in the dismissal order</td>
+</tr>
+<tr>
+<td><a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">Means test</a> failure (707(b))</td>
+<td><strong style="color:var(--green)">No</strong></td>
+<td>Not related to court order compliance</td>
+</tr>
+<tr>
+<td>Refusing to comply with court order to turn over property</td>
+<td><strong style="color:var(--red)">Likely yes</strong></td>
+<td>Direct defiance of a court order is the textbook 109(g)(1) scenario</td>
 </tr>
 </table>
 </div>
-<!-- How 109(g) and 362(c) Interact -->
+<!-- The 109(g)(2) Trigger -->
 <div class="content-section">
-<h2>How 109(g) and 362(c) Interact</h2>
-<p>These two provisions are independent - they are not alternatives. Both can apply to the same debtor at the same time, creating a double barrier.</p>
-<h3>Scenario 1: 109(g) Applies, Then 362(c) Limits the Stay</h3>
-<p>Suppose your <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> case was dismissed for willful failure to obey court orders (triggering 109(g)(1)). Here is the timeline:</p>
-<ol>
-<li><strong>Days 1-180:</strong> You cannot file at all. No bankruptcy protection. Creditors can take any action.</li>
-<li><strong>Day 181:</strong> You can file a new case. But because the new filing is within one year of the prior dismissal, the automatic stay under 362(c)(3) lasts only 30 days.</li>
-<li><strong>Day 181-211:</strong> You have the automatic stay for 30 days. You must file a motion to extend the stay and get a hearing before day 211.</li>
-<li><strong>Day 212+:</strong> If the court extended the stay, full protection continues. If not, the stay has expired.</li>
-</ol>
-<h3>Scenario 2: 109(g) Does Not Apply, But 362(c) Does</h3>
-<p>Suppose your case was dismissed because you could not make plan payments - not willful, so 109(g) does not apply. You can <a href="https://canifileagain.org/" title="file bankruptcy again">refile</a> immediately. But if you refile within one year of the dismissal, 362(c)(3) limits the stay to 30 days. You still need to file a motion to extend.</p>
-<h3>Scenario 3: Multiple Dismissals</h3>
-<p>If you have had two or more cases dismissed within the past year, you face the harshest combination:</p>
-<ul>
-<li>If 109(g) applies, you wait 180 days with no protection</li>
-<li>When you refile, 362(c)(4) means no automatic stay at all</li>
-<li>You must file a motion to impose the stay and convince the court you are acting in good faith</li>
-</ul>
-<div class="yellow-box">
-<p><strong>The one-year lookback window.</strong> The 362(c) limitations only count cases that were pending within the preceding one year. If your prior case was dismissed more than a year ago, neither 362(c)(3) nor 362(c)(4) applies, and you get a full automatic stay. If the 109(g) bar kept you from filing for 180 days, that time counts toward the one-year window. So in some cases, waiting the full 180 days (or even longer) may actually work in your favor by moving you closer to the one-year mark.</p>
+<h2>The 109(g)(1) Trigger: "Willful Failure"</h2>
+<div class="statute-box">
+<p><strong>11 U.S.C. Section 109(g)(1):</strong> The 180-day bar applies when "the case was dismissed by the court for willful failure of the debtor to abide by orders of the court, or to appear before the court in proper prosecution of the case."</p>
 </div>
-</div>
-<!-- How to Overcome Stay Limitations -->
-<div class="content-section">
-<h2>How to Overcome the Automatic Stay Limitations</h2>
-<h3>Filing a Motion to Extend or Impose the Stay</h3>
-<p>If 362(c)(3) or 362(c)(4) applies to your case, you need to file a motion asking the court to extend or impose the automatic stay. This motion must be filed within 30 days of your new petition, and the hearing must occur within that same 30-day period.</p>
-<h3>What You Must Prove</h3>
-<p>The standard is "clear and convincing evidence" that your new case was filed in <strong>good faith</strong>. Courts consider:</p>
+<p>The word "willful" is doing all the heavy lifting in this statute. Courts have interpreted it to require more than mere negligence or inadvertence. The failure must be <strong>deliberate</strong> - a conscious choice to disregard the court's authority.</p>
+<h3>What Courts Look For</h3>
 <ul>
-<li><strong>Changed circumstances:</strong> Has something meaningful changed since the last case? New employment? Resolved the issue that caused the prior dismissal? Medical recovery? Divorce finalized?</li>
-<li><strong>Ability to succeed:</strong> Can you actually complete a bankruptcy case this time? If filing <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, can you afford the plan payments?</li>
-<li><strong>Reason for prior dismissal:</strong> Was the prior dismissal due to circumstances beyond your control, or did you deliberately abuse the process?</li>
-<li><strong>Filing history:</strong> How many times have you filed? More prior filings make it harder to show good faith.</li>
-<li><strong>Timing:</strong> Did you refile at the earliest possible moment, or did you wait and prepare?</li>
+<li><strong>Pattern of noncompliance:</strong> A single missed deadline is usually not willful. A pattern of repeated failures, especially after warnings, suggests willfulness.</li>
+<li><strong>Prior notice:</strong> Did the court warn the debtor that continued noncompliance would result in dismissal? If so, continued noncompliance is more likely to be found willful.</li>
+<li><strong>Explanation offered:</strong> Did the debtor explain the failure? A credible explanation (medical emergency, natural disaster, attorney breakdown) weighs against a finding of willfulness. No explanation at all weighs in favor.</li>
+<li><strong>Nature of the order:</strong> Failing to comply with a direct, specific court order (e.g., "produce your tax returns by March 15") is more likely to be found willful than failing to meet a routine procedural deadline.</li>
 </ul>
-<h3>Presumption of Bad Faith</h3>
-<p>Under 362(c)(3)(C), there is a <strong>presumption</strong> that the case was not filed in good faith if:</p>
-<ul>
-<li>More than one prior case was pending within the last year</li>
-<li>The prior case was dismissed for failure to file documents, failure to perform under a plan, or failure to make plan payments</li>
-<li>There has not been a substantial change in the debtor's financial or personal affairs since the dismissal</li>
-<li>There is no reasonable probability that the debtor will succeed in the new case</li>
-</ul>
-<p>You can rebut this presumption, but the burden is on you. The stronger your evidence of changed circumstances and genuine intent, the better your chances.</p>
+<h3>The Attorney Error Problem</h3>
+<p>What happens when your attorney - not you - caused the failure? For example, your attorney failed to file a required document, missed a court hearing, or failed to communicate a court order to you. Are you stuck with a 180-day bar because of your attorney's mistake?</p>
+<p>Courts are divided on this question. Some courts hold that an attorney's failure is imputed to the client - you chose the attorney, and you bear the consequences. Other courts have held that an attorney's negligence cannot make the debtor's failure "willful" because the debtor did not personally and deliberately choose to disobey the court.</p>
 <div class="green-box">
-<p><strong>Practical tip:</strong> Have the motion to extend or impose the stay <strong>ready to file on the same day</strong> you file your new petition. In many courts, you can file them simultaneously. Do not wait - every day counts toward the 30-day deadline, and getting a hearing scheduled can take time.</p>
+<p><strong>If your attorney's negligence caused the dismissal,</strong> you may have two separate arguments: (1) the failure was not "willful" on your part, so 109(g) does not apply, and (2) you may have a <a href="https://bankruptcymalpractice.org" rel="noopener" target="_blank" title="Legal Malpractice in Bankruptcy - Open Bankruptcy Project">legal malpractice</a> claim against your attorney for the harm caused by the dismissal. See <a href="https://bankruptcymalpractice.org">bankruptcymalpractice.org</a> for more information.</p>
 </div>
 </div>
-<!-- Good Faith Serial Filing -->
+<!-- What to Do Next -->
 <div class="content-section">
-<h2>Can You Be a Serial Filer in Good Faith?</h2>
-<p>Yes. Not every repeat filing is abusive. Life is complicated, and people sometimes need multiple attempts at bankruptcy relief for entirely legitimate reasons:</p>
+<h2>What to Do After Dismissal for Cause</h2>
+<h3>Step 1: Get a Copy of the Dismissal Order</h3>
+<p>The most important document is the court's order dismissing your case. Read it carefully. Look for:</p>
 <ul>
-<li><strong>Attorney failure:</strong> Your prior case was mishandled by an attorney who missed deadlines, failed to file documents, or provided bad advice. You fired that attorney and hired a competent one.</li>
-<li><strong>Changed chapter:</strong> You filed <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> initially but realized Chapter 13 would better protect your home or car. The first case was dismissed so you could refile in the right chapter.</li>
-<li><strong>Life event:</strong> You were making plan payments successfully until a job loss, medical emergency, or divorce destroyed your ability to continue. Now your circumstances have stabilized and you can succeed.</li>
-<li><strong>Income change:</strong> Your income changed during the prior case, making the plan infeasible. Your income has since stabilized at a level that supports a new plan.</li>
-<li><strong>Documentation issues:</strong> Your prior case was dismissed because you could not locate required tax returns or financial documents. You have since obtained them.</li>
+<li>Does it say "willful failure"? If not, 109(g) likely does not apply.</li>
+<li>Does it include a specific refiling bar ("Debtor may not refile for X days/months")? If so, that bar controls.</li>
+<li>Is it "with prejudice" or "without prejudice"? This affects your ability to refile.</li>
 </ul>
-<p>Courts are generally more receptive to extending the stay when you can point to a <strong>specific, concrete change</strong> that addresses the reason for the prior dismissal. Vague promises to "do better this time" are not enough.</p>
+<h3>Step 2: Determine Whether the 180-Day Bar Applies</h3>
+<p>Based on the language of the dismissal order and the facts of your case, determine whether 109(g)(1) applies. If the dismissal order does not mention "willful failure" and the court did not make a specific finding of willfulness, you may be able to refile immediately.</p>
+<h3>Step 3: If the Bar Applies, Wait It Out</h3>
+<p>If the 180-day bar does apply, use the waiting period productively:</p>
+<ul>
+<li>Complete pre-filing credit counseling (it is only valid for 180 days, so time it carefully)</li>
+<li>Gather all the documents you will need - tax returns, pay stubs, bank statements, property valuations</li>
+<li>Address whatever caused the prior dismissal - if you missed hearings, make sure you can attend this time; if you failed to file documents, prepare them in advance</li>
+<li>Consider whether a different chapter might work better for your situation</li>
+<li>Consult with an attorney about filing a motion to extend or impose the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> (since you will be a <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Repeat Bankruptcy Filers - Open Bankruptcy Project">repeat filer</a> under 362(c))</li>
+</ul>
+<p><a href="/how-to-get-around-it.html">Full guide to preparing during the 180-day waiting period →</a></p>
+<h3>Step 4: Prepare for Automatic Stay Limitations</h3>
+<p>Even after the 180-day bar expires, filing a new case within one year of the dismissal triggers <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> limitations under Sections 362(c)(3) and 362(c)(4):</p>
+<ul>
+<li><strong>One prior <a href="https://dismissedbankruptcy.org/" title="dismissal">case dismissed</a> within the past year:</strong> The <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> in your new case lasts only 30 days unless you file a motion to extend it and the court finds <a href="https://chapter13plan.org/" title="good faith">good faith</a> and changed circumstances.</li>
+<li><strong>Two or more prior cases dismissed within the past year:</strong> There is no <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> at all unless you file a motion to impose it.</li>
+</ul>
+<div class="warning-box">
+<p><strong>File your stay extension motion early.</strong> In most courts, the motion to extend the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> under 362(c)(3) must be filed within 30 days of the new petition. If you miss this deadline, the stay expires and you may not be able to get it back. Have the motion ready before you file the new case.</p>
 </div>
-<!-- Practical Advice -->
-<div class="content-section">
-<h2>Practical Advice for Repeat Filers</h2>
-<h3>Before You Refile</h3>
+<h3>Step 5: Strengthen Your Next Filing</h3>
+<p>Courts pay close attention to repeat filers. To avoid a second dismissal:</p>
 <ul>
-<li><strong>Wait strategically.</strong> If you are close to the one-year anniversary of your prior dismissal, waiting a few extra weeks may mean you get a full automatic stay with no limitations.</li>
-<li><strong>Fix the problem.</strong> Address whatever caused the prior dismissal before refiling. Complete <a href="https://bankruptcyfreshstart.org/" title="credit counseling">credit counseling</a>, gather documents, confirm you can afford plan payments, and resolve any outstanding court issues.</li>
-<li><strong>Prepare the stay motion.</strong> Draft your motion to extend or impose the automatic stay before you file the new petition. Include affidavits and evidence of changed circumstances.</li>
-<li><strong>Calculate the timeline.</strong> Use the <a href="/calculator.html">180-Day Calculator</a> to determine when you can file. Then count forward to see whether the new filing falls within the one-year window for 362(c) purposes.</li>
-</ul>
-<h3>On Filing Day</h3>
-<ul>
-<li>File the new petition and the motion to extend/impose stay simultaneously if your court allows it</li>
-<li>Request an expedited hearing on the stay motion - you only have 30 days</li>
-<li>File all schedules and statements with the petition - do not request extensions</li>
-<li>Pay the filing fee in full - do not request installments</li>
-</ul>
-<h3>After Filing</h3>
-<ul>
-<li>Attend every hearing without exception</li>
-<li>Respond to every court order immediately</li>
-<li>Make every plan payment on time (if Chapter 13)</li>
-<li>Communicate proactively with your trustee and the court</li>
+<li>File all schedules and statements with the petition - do not rely on extensions</li>
+<li>Attend every hearing and the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a> without exception</li>
+<li>Respond to every court order promptly</li>
+<li>If filing <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, make sure you can afford the proposed plan payments before you commit to them</li>
+<li>Keep copies of everything you file and every communication with the court or trustee</li>
 </ul>
 </div>
 <!-- CTA Box -->
 <div class="cta-box">
-<h3>Check Your Filing Eligibility</h3>
-<p>The free screener at 1328f.com checks filing bars, <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> bars, and stay limitations based on your case history.</p>
+<h3>Find Your Earliest Refiling Date</h3>
+<p>Enter the date of your dismissal order and get your earliest eligible refiling date. Free, instant, nothing stored.</p>
 <div class="cta-links">
-<a class="primary-btn" href="https://1328f.com?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Free Discharge Screener</a>
-<a class="secondary-btn" href="/calculator.html">180-Day Calculator</a>
+<a class="primary-btn" href="/calculator.html">180-Day Calculator</a>
+<a class="secondary-btn" href="https://1328f.com?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">Discharge Screener</a>
 </div>
 </div>
 <!-- Related Resources -->
 <div class="content-section">
 <h2>Related Resources</h2>
 <ul>
-<li><a href="https://serialfiler.org">serialfiler.org</a> - Complete guide to <a href="https://serialfiler.org" rel="noopener" target="_blank" title="Serial Bankruptcy Filers - Open Bankruptcy Project">serial filer</a> rules and protections</li>
-<li><a href="https://automaticstay.org">automaticstay.org</a> - The automatic stay explained, including 362(c)(3) and 362(c)(4)</li>
-<li><a href="https://dischargebar.org">dischargebar.org</a> - How <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> bars differ from filing bars</li>
-<li><a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> - What to do after your bankruptcy is dismissed</li>
-<li><a href="/180-day-rule.html">The 180-Day Rule</a> - Comprehensive guide to the Section 109(g) filing bar</li>
-<li><a href="/voluntary-dismissal-bar.html">Voluntary Dismissal and 109(g)(2)</a> - When voluntary dismissal triggers the bar</li>
+<li><a href="https://dismissedbankruptcy.org">dismissedbankruptcy.org</a> - Complete guide to next steps after any bankruptcy dismissal</li>
+<li><a href="https://canifileagain.org">canifileagain.org</a> - Check whether you can <a href="https://canifileagain.org/" title="file bankruptcy again">file again</a> after a prior case</li>
+<li><a href="https://filebankruptcyagain.com">filebankruptcyagain.com</a> - Filing again after a prior bankruptcy</li>
+<li><a href="https://bankruptcymalpractice.org">bankruptcymalpractice.org</a> - When attorney negligence causes case failure</li>
+<li><a href="/willful-failure.html">Willful Failure and 109(g)(1)</a> - Deep dive into the willfulness standard</li>
+<li><a href="/serial-filer-protection.html">Serial Filer Protections</a> - How 109(g) and 362(c) work together for repeat filers</li>
 </ul>
 </div>
 <!-- Legal References -->
@@ -743,10 +654,10 @@
 <h2>Legal References</h2>
 <ul>
 <li><a href="https://www.law.cornell.edu/uscode/text/11/109">11 U.S.C. Section 109(g)</a> - The 180-day filing bar</li>
-<li><a href="https://www.law.cornell.edu/uscode/text/11/362">11 U.S.C. Section 362(c)(3)</a> - 30-day stay limit for one prior dismissed case</li>
-<li><a href="https://www.law.cornell.edu/uscode/text/11/362">11 U.S.C. Section 362(c)(4)</a> - No stay for two or more prior dismissed cases</li>
-<li><a href="https://www.law.cornell.edu/uscode/text/11/362">11 U.S.C. Section 362(c)(3)(B)</a> - Motion to extend stay; good faith standard</li>
-<li>Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (<a href="https://1328f.com/glossary.html#bapcpa" title="BAPCPA">BAPCPA</a>) - Added 362(c)(3) and 362(c)(4)</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/349">11 U.S.C. Section 349</a> - Effect of dismissal</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/362">11 U.S.C. Section 362(c)(3)-(4)</a> - <a href="https://automaticstay.org/" title="automatic stay">Automatic stay</a> limitations for repeat filers</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/105">11 U.S.C. Section 105(a)</a> - Court's power to issue orders necessary to carry out the Code</li>
+<li><a href="https://www.law.cornell.edu/uscode/text/11/707">11 U.S.C. Section 707(b)</a> - Dismissal for <a href="https://meanstest.org" rel="noopener" target="_blank" title="Bankruptcy Means Test - Open Bankruptcy Project">means test</a> abuse</li>
 </ul>
 <p style="color:var(--text-muted);font-size:0.85rem;margin-top:1rem;">Last updated: March 2026</p>
 </div>
@@ -809,7 +720,7 @@
 <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=109g.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 </ul>
 </div>
@@ -833,7 +744,7 @@
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=109g.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
