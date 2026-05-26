@@ -148,6 +148,9 @@
     .nav-links { display:none; width:100%; flex-direction:column; gap:0.75rem; padding-top:0.75rem; }
     .nav-links.open { display:flex; } .cta-box .cta-links { flex-direction:column; gap:0.75rem; }
   }
+        .quick-answer { background: var(--surface); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; padding: 16px 20px; margin-bottom: 24px; }
+        .quick-answer p { color: var(--text); margin: 0; font-size: 0.95rem; }
+
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org", "description": "Free, open-source bankruptcy court transparency tools and research.", "foundingDate": "2026-03-27", "areaServed": "US", "nonprofitStatus": "Nonprofit501c3", "sameAs": ["https://1328f.com", "https://1328f.org"]}
@@ -279,6 +282,10 @@
 </div>
 <main id="main-content">
 <div class="content-section">
+        <div class="quick-answer">
+            <p>No. The 180-day bar under Section 109(g)(2) only applies when you voluntarily dismissed your case after a creditor filed a motion for relief from the automatic stay. If no creditor had filed a stay relief motion before you dismissed, 109(g)(2) does not apply and you can refile immediately (subject to repeat-filer stay limits under 362(c)(3) and 362(c)(4)).</p>
+        </div>
+
 <h2>The Abuse Pattern Congress Targeted</h2>
 <p><a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a>(2) was enacted to stop a specific scheme: a debtor files bankruptcy to invoke the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> and halt a foreclosure or repossession. Once the immediate crisis passes and the sale date is postponed, the debtor voluntarily dismisses the case. When the creditor reschedules the sale, the debtor files again - invoking the stay a second time. This cycle can repeat indefinitely, preventing the creditor from ever reaching the collateral while the debtor never actually completes a bankruptcy case.</p>
 <p>Congress closed this loophole by imposing a 180-day filing bar whenever a debtor voluntarily dismisses after a creditor has already asked the court for relief from the stay.</p>
