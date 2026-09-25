@@ -1122,7 +1122,7 @@ Know your state exemptions. State law exemptions protect certain property from c
 
 Do not transfer property. Transferring assets to friends or family to hide them from creditors is fraudulent and will be discovered. It can result in denial of discharge under Section 727(a)(2) and potential criminal prosecution.
 
-Do not run up new debt. Debt incurred within 90 days of filing (credit card charges over $800 to a single creditor) or cash advances over $1,100 within 70 days are presumed nondischargeable under Section 523(a)(2)(C). Keep your spending minimal and necessary.
+Do not run up new debt. Debt incurred within 90 days of filing (credit card charges over $900 to a single creditor) or cash advances over $1,250 within 70 days are presumed nondischargeable under Section 523(a)(2)(C). Keep your spending minimal and necessary.
 
 Foreclosure warning: If your mortgage company has a foreclosure sale scheduled during the 180-day bar period, you have no bankruptcy protection to stop it. Contact the mortgage company immediately about loss mitigation options, forbearance, or a loan modification. If the sale is imminent, consult with an attorney about state court remedies.
 
