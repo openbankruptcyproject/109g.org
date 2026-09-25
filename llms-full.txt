@@ -1,6 +1,6 @@
 # 109g.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on 109g.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## The 180-Day Rule in Bankruptcy - When You Cannot Refile - 109(g)
+## 11 USC 109(g) 180-Day Refiling Bar [2026]
 Source: https://109g.org/180-day-rule.html
 
 Skip to main content
@@ -29,6 +29,8 @@ The 180-Day Rule in Bankruptcy
 Section 109(g) creates a 180-day filing bar after certain bankruptcy dismissals. You cannot file a new case, get an automatic stay, or receive any bankruptcy protection while the clock runs.
 
 Network › 109(g) Filing Bar › 180-Day Rule
+
+The 180-day rule refers to Section 109(g) of the Bankruptcy Code. It prevents you from filing any new bankruptcy case for 180 calendar days after a prior case was dismissed under two specific conditions: (1) the court dismissed your case for willful failure to obey court orders or appear before the court, or (2) you voluntarily dismissed your case after a creditor filed a motion for relief from the automatic stay. This is a filing bar - you literally cannot file a new petition while the 180 days are running.
 
 What Is the 180-Day Rule?
 
@@ -314,30 +316,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -353,13 +358,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -392,6 +397,8 @@ Date of Dismissal Order
 This is the date the court entered the dismissal order on the docket - not the date you received notice.
 
 Calculate Earliest Filing Date
+
+Count 180 calendar days forward from the date the dismissal order was entered by the court. The 181st day is your earliest eligible filing date. Calendar days include weekends and holidays - there is no tolling. For example, if your case was dismissed on January 1, you can file a new petition on July 1.
 
 How the Calculation Works
 
@@ -506,30 +513,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -545,13 +555,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -578,6 +588,8 @@ Bankruptcy Dismissed for Cause
 If your bankruptcy was dismissed "for cause," you need to understand whether it triggers the 180-day filing bar - and most of the time, it does not.
 
 Network › 109(g) Filing Bar › Dismissed for Cause
+
+A bankruptcy case can be dismissed 'for cause' for many reasons, including failure to file required schedules or documents, failure to attend the 341 meeting of creditors, failure to make plan payments, failure to complete credit counseling, failure to provide tax returns, abuse of the bankruptcy process, or violating court orders. However, not all dismissals 'for cause' trigger the 180-day filing bar under Section 109(g). Only dismissals specifically for 'willful failure to abide by orders of the court, or to appear before the court' activate the bar.
 
 What Does "Dismissed for Cause" Mean?
 
@@ -833,30 +845,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -872,13 +887,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -893,7 +908,7 @@ Skip to main content
 
 Home
 FAQ
-Espanol
+Español
 
 Section 109(g) FAQ - Bankruptcy Filing Bars Explained
 
@@ -907,7 +922,7 @@ Section 109(g) imposes a 180-day bar on refiling bankruptcy after a case is dism
 
 How long is the 109(g) filing bar?
 
-The filing bar under Section 109(g) is 180 days (approximately 6 months) from the date of dismissal. After 180 days, you are eligible to file a new bankruptcy case, though other restrictions like reduced automatic stay under Section 362(c) may still apply.
+The filing bar under Section 109(g) is 180 days (approximately 6 months) from the date of dismissal. After 180 days, the statutory bar expires and the Code does not bar a new filing, though other restrictions like reduced automatic stay under Section 362(c) may still apply.
 
 What triggers a 109(g) filing bar?
 
@@ -959,7 +974,9 @@ Serial filer protections under Section 362(c)(3) and (c)(4) are separate from 10
 
 What is a motion to extend the automatic stay after a 109(g) bar?
 
-Under Section 362(c)(3), if you refile within one year of a dismissal, you must file a motion to extend the automatic stay beyond 30 days. You must show the new filing is in good faith. File this motion within 30 days of the new petition date.
+Under Section 362(c)(3), refilings within one year of a dismissal trigger a 30-day automatic-stay limit; extending the stay beyond 30 days requires a motion. The Code requires a showing that the new filing is in good faith, with the motion filed within 30 days of the new petition date.
+
+Section 109(g) imposes a 180-day bar on refiling bankruptcy after a case is dismissed under certain conditions. If your previous case was dismissed for willful failure to obey court orders or to appear, or if you voluntarily dismissed after a creditor sought relief from the automatic stay, you cannot file again for 180 days.
 
 More Resources on This Site
 
@@ -983,24 +1000,37 @@ Automatic Stay Limits
 
 How to File Bankruptcy
 
-Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-openbankruptcyproject.org
-1328f.com
-chapter7vs13.org
-bankruptcymeanstest.org
-♥ Sponsor
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## What You Can Do During the 180-Day Filing Bar - 109(g)
+## Working Around the 109(g) 180-Day Bar [2026]: Options During the Refiling Window
 Source: https://109g.org/how-to-get-around-it.html
 
 Skip to main content
@@ -1021,6 +1051,8 @@ What You Can Do During the 180 Days
 You cannot file bankruptcy while the 109(g) bar is active. But you can use the time to prepare for a stronger case when you do file.
 
 Network › 109(g) › During the 180 Days
+
+You cannot file a new bankruptcy case during the 180-day bar, but you can prepare for your next filing. Complete the required credit counseling course, gather all financial documents, create a realistic budget, research whether Chapter 7 or Chapter 13 is right for your situation, and consult with a bankruptcy attorney. The 180 days can be productive time that leads to a stronger case when you do file.
 
 This Is Not a Workaround - It Is Preparation
 
@@ -1214,30 +1246,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1253,13 +1288,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1268,7 +1303,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## 11 USC 109 - Section 109(g) Bankruptcy Filing Bar [2026 Guide]
 Source: https://109g.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -1283,7 +1318,7 @@ During the 180 Days
 Compare Bars
 Serial Filers
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Section 109(g) Bankruptcy Filing Bar
 
@@ -1296,6 +1331,8 @@ Most dismissals do NOT trigger the 180-day bar. Section 109(g) only applies in t
 Calculate your earliest refile date  |  See the full table of what triggers it  |  Compare to other bars
 
 Network › 109(g) Filing Bar
+
+The 180-day rule refers to Section 109(g) of the Bankruptcy Code, which prevents a person from filing any new bankruptcy case for 180 calendar days after a prior case was dismissed under certain conditions. Unlike discharge bars (which let you file but block debt relief), Section 109(g) is a filing bar - it prevents you from filing a petition at all. No case is opened, no automatic stay takes effect, and no creditor protection begins.
 
 What Is Section 109(g)?
 
@@ -1636,39 +1673,33 @@ You're subscribed. Thank you!
 
 Privacy policy
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1678,19 +1709,48 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+Index
+
 ---
 
-## Serial Filer Protections - How 109(g) and 362(c) Work Together
+## Serial Filer Limits [2026]: How 11 USC 109(g) and 362(c)(3) Interact After Dismissal
 Source: https://109g.org/serial-filer-protection.html
 
 Skip to main content
@@ -1711,6 +1771,8 @@ Serial Filer Protections
 Congress built a two-layer defense against repeat bankruptcy filings: Section 109(g) bars you from filing, and Section 362(c) limits your automatic stay even when you can file. Here is how they work together.
 
 Network › 109(g) Filing Bar › Serial Filer Protections
+
+If you had one prior case pending that was dismissed within the past year, the automatic stay in your new case lasts only 30 days under Section 362(c)(3), unless the court extends it after finding good faith and changed circumstances. If you had two or more prior cases pending that were dismissed within the past year, there is no automatic stay at all under Section 362(c)(4) - you must ask the court to impose it. These limitations apply regardless of whether Section 109(g) applies.
 
 The Serial Filing Problem
 
@@ -1994,30 +2056,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2033,19 +2098,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Voluntary Dismissal and the 109(g)(1) Filing Bar
+## Voluntary Dismissal and the 109(g)(2) Bar [2026]: When Voluntary Dismissal Triggers Refile Block
 Source: https://109g.org/voluntary-dismissal-bar.html
 
 Skip to main content
@@ -2066,6 +2131,8 @@ Voluntary Dismissal and the 109(g)(2) Filing Bar
 If you voluntarily dismiss your bankruptcy case after a creditor files a motion for relief from the automatic stay, you may be barred from refiling for 180 days.
 
 Network › 109(g) Filing Bar › Voluntary Dismissal Bar
+
+No. Voluntary dismissal only triggers the 180-day filing bar under Section 109(g)(2) if a creditor had already filed a motion for relief from the automatic stay before you dismissed. If you voluntarily dismiss your case and no creditor has filed a stay relief motion, the 180-day bar does not apply and you can refile immediately (though automatic stay limitations under 362(c) may still affect your new case).
 
 What Is Section 109(g)(2)?
 
@@ -2283,30 +2350,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -2322,19 +2392,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## 109(g)(2) - Voluntary Dismissal After a Relief from Stay Motion
+## Voluntary Dismissal of Bankruptcy [2026]: 11 USC 1307(b) and the 109(g) Refile Bar Risk
 Source: https://109g.org/voluntary-dismissal.html
 
 Skip to main content
@@ -2355,6 +2425,8 @@ Serial Filers
 If you voluntarily dismissed your bankruptcy case after a creditor filed a motion for relief from the automatic stay, the 180-day filing bar may apply.
 
 Network › 109(g) › Voluntary Dismissal
+
+No. The 180-day bar under Section 109(g)(2) only applies when you voluntarily dismissed your case after a creditor filed a motion for relief from the automatic stay. If no creditor had filed a stay relief motion before you dismissed, 109(g)(2) does not apply and you can refile immediately (subject to repeat-filer stay limits under 362(c)(3) and 362(c)(4)).
 
 The Abuse Pattern Congress Targeted
 
@@ -2522,30 +2594,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Relief from Automatic Stay -- relieffromstay.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2561,19 +2636,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## 109(g) vs Other Filing Bars - Filing Bars, Discharge Bars, and Stay Limits
+## 11 USC 109(g) vs Other Bankruptcy Bars [2026]: 727(a)(8), 1328(f), 362(c)(3) Compared
 Source: https://109g.org/vs-other-bars.html
 
 Skip to main content
@@ -2594,6 +2669,8 @@ Serial Filers
 Filing bars, discharge bars, and stay limits serve different purposes - and they stack. A debtor can face all three simultaneously.
 
 Network › 109(g) › Compare Bars
+
+A filing bar (Section 109(g)) prevents you from filing any bankruptcy case at all for 180 days. No case is opened, no automatic stay takes effect, and no creditor protection begins. A discharge bar (Sections 727(a)(8), 727(a)(9), 1328(f)) allows you to file a new case and receive the automatic stay, but prevents the court from granting a discharge. Filing bars are shorter (180 days) but more restrictive. Discharge bars are longer (2 to 8 years) but still allow you to file and receive temporary creditor protection.
 
 The Three Layers of Serial Filing Consequences
 
@@ -2831,30 +2908,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -2870,13 +2950,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -2903,6 +2983,8 @@ Serial Filers
 If the court dismissed your case for willful failure to appear or comply with court orders, you cannot file again for 180 days.
 
 Network › 109(g) › Willful Failure
+
+Courts interpret 'willful' to mean intentional or reflecting a conscious disregard for the court's authority. A debtor who receives a court order, understands what is required, and simply does not comply has acted willfully. A debtor who misses a deadline because of a genuine emergency, a misunderstanding, or a failure by their attorney to communicate the order may not have acted willfully.
 
 What the Statute Says
 
@@ -3054,30 +3136,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Open Bankruptcy Project
+Part of the Bankruptcy Transparency Network
 
 Real information, no strings.
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -3093,13 +3178,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -3161,7 +3246,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -3171,6 +3256,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About 109g.org
+Source: https://109g.org/about.html
+
+109g.org
+
+Home
+About
+Privacy
+
+About 109g.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+109g.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
